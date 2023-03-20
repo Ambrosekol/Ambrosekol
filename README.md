@@ -73,17 +73,8 @@ C                                ███████████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/aravindvnair99/aravindvnair99/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2023 15:27:57 UTC
+
 <!--END_SECTION:waka-->
-
-*NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.*
-
-
-<!--
-<p align="center">
-<a href="https://buymeacoffee.com/AravindVNair99" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-blue.png" alt="Buy Aravind A Coffee" height="40" width="170" ></a>
-</p>
--->
 
 
 Thank you for visiting my GitHub profile!
