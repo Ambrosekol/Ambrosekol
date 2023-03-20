@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Post here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I also have a degree in Biotechnology
 
-## Languages and Tools:
+## Languages, Platform and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
 
 
