@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=27368902)
 ### Hi there 👋 
 Hello, my name is Ambrose Kolurejo I am a mobile developer. My primary focus is on Flutter development, and I am also familiar with HTML and CSS. I am currently enrolled in a certification course on software engineering, which I hope will help me to improve my skills and expand my knowledge.
 
@@ -33,3 +32,4 @@ Java (currently learning)
 If you are interested in collaborating on a project or have any questions, please feel free to contact me at [insert email address here].
 
 Thank you for visiting my GitHub profile!
+![](https://hit.yhype.me/github/profile?user_id=27368902)
