@@ -17,9 +17,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-5%2C151%20hrs%206%20mins-red)
+![Code Time](https://img.shields.io/badge/Code%20Time-201%20hrs%20-red)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Lines%20of%20of%20code-i've%20lost%20count-blue)
 
 
 **I'm a Night 🦉** 
