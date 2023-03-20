@@ -16,6 +16,8 @@ As a mobile developer, I have worked on several Flutter projects, some of which 
 
 These projects showcase my skills in Flutter development and demonstrate my ability to create functional and visually appealing mobile apps.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambrosekol&theme=dark&hide_border=true&border_radius=6.4&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB0000&ring=31EB5D)](https://git.io/streak-stats)
+
 ## Skills
 
 Flutter development
