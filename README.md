@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
 
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambrosekol&theme=dark&hide_border=true&border_radius=6.4&date_format=M%20j%5B%2C%20Y%5D&mode=daily&fire=EB0000&ring=31EB5D)](https://git.io/streak-stats) | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambrosekol&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" /> |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambrosekol&theme=dark&hide_border=true&border_radius=6.4&date_format=M%20j%5B%2C%20Y%5D&mode=daily&fire=EB0000&ring=31EB5D)](https://git.io/streak-stats) | ![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosekol&show_icons=true&theme=transparent) |
 |-------|-------|
 
 
