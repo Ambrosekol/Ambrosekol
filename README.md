@@ -5,7 +5,7 @@
 - 👯 I’m Available and ready to collaborate on any Projoect
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I also have a degree in Biotechnology
-- 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrosekol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
+- 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
 
 ## Languages, Platform and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
