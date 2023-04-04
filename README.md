@@ -1,7 +1,7 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
 - 🔭 I’m currently working on [ALX low level Programming](https://github.com/Ambrosekol/alx-system_engineering-devops)
-- 🌱 I’m currently learning to be a software engineer [ALX](https://www.alxafrica.com)
+- 🌱 I’m currently learning software engineering [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any Projoect
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I also have a degree in Biotechnology
