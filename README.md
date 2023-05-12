@@ -1,6 +1,6 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
-- 🔭 I’m currently working on [Bit manipulation in C](https://github.com/Ambrosekol/alx-low_level_programming/tree/main/0x14-bit_manipulation)
+- 🔭 I’m currently working on [shell project](https://github.com/Ambrosekol/term_test)
 - 🌱 I’m currently learning software engineering [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any Projoect
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
