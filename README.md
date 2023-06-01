@@ -1,7 +1,7 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
 - 🔭 I’m currently working on [shell project](https://github.com/Ambrosekol/simple_shell)
-- 🌱 I’m currently learning software engineering [ALX](https://www.alxafrica.com)
+- 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any Projoect
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I am also a Biotechnology student
@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosekol&langs_count=10&layout=compact)](https://github.com/Ambrosekol)
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
+ <b>Note:</b> The languages shown here is just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
 </br>
 ## Languages, Platform and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
