@@ -1,6 +1,6 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
-- 🔭 I’m currently working on [Monty](https://github.com/Ambrosekol/alx-higher_level_programming)
+- 🔭 I’m currently working on [Python Classes](https://github.com/Ambrosekol/alx-higher_level_programming)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any Projoect
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
