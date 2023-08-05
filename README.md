@@ -1,17 +1,17 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
-- 🔭 I’m currently working on [Python Classes](https://github.com/Ambrosekol/alx-higher_level_programming)
+- 🔭 I’m currently working on [System DevOps](https://github.com/Ambrosekol/alx-system_engineering-devops)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
-- 👯 I’m Available and ready to collaborate on any Projoect
+- 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I am also a Biotechnology student
 - 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosekol&langs_count=10&layout=compact)](https://github.com/Ambrosekol)
 <br/>
- <b>Note:</b> The languages shown here is just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
+ <b>Note:</b> The languages shown here are just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
 </br>
-## Languages, Platform and Tools I use:
+## Languages, Platforms and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,python,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
 <br/>
  <b>Note:</b> This is not an exhaustive list.
