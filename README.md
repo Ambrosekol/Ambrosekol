@@ -1,6 +1,6 @@
 ### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
 
-- 🔭 I’m currently working on [System DevOps](https://github.com/Ambrosekol/alx-system_engineering-devops)
+- 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/alx-system_engineering-devops)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
