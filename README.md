@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> </p>
 <p align="center"> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=for-the-badge" alt="Ambrose_kol" /></a> </p>
 
-- 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/alx-system_engineering-devops)
+- 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/AirBnB_clone)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
