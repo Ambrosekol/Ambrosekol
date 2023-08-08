@@ -6,7 +6,7 @@
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I am also a Biotechnology student
 - 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ambrosekol&theme=onedark&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosekol&langs_count=10&layout=compact)](https://github.com/Ambrosekol)
 <br/>
  <b>Note:</b> The languages shown here are just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
@@ -17,7 +17,7 @@
  <b>Note:</b> This is not an exhaustive list.
 </br>
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambrosekol&theme=dark&hide_border=true&border_radius=6.4&date_format=M%20j%5B%2C%20Y%5D&mode=daily&fire=EB0000&ring=31EB5D)](https://git.io/streak-stats) | ![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosekol&show_icons=true&theme=transparent) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambrosekol&theme=dark&hide_border=true&border_radius=6.4&date_format=M%20j%5B%2C%20Y%5D&mode=daily&fire=EB0000&ring=31EB5D&hide_current_streak=true)](https://git.io/streak-stats) | ![Ambrose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambrosekol&show_icons=true&theme=transparent) |
 |-------|-------|
 
 
