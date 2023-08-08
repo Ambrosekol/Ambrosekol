@@ -1,7 +1,6 @@
 <h2 align="center">Hey there, I'm Ambrose! 👋 👨‍💻 </h2>
-<h3 align="center">ALX Certified Backend Engineer with a Love For Mobile App Development Using Flutter</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> </p>
-<p align="center"> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=for-the-badge" alt="Ambrose_kol" /></a> </p>
+<h3 align="center">An Upcoming and talented ALX Backend Engineer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=plastic" alt="Ambrose_kol" /></a></p>
 
 - 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/AirBnB_clone)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
