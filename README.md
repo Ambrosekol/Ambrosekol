@@ -1,4 +1,7 @@
-### Hey there, I'm Ambrose! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=ambrosekol&style=plastic)
+<h2 align="center">Hey there, I'm Ambrose! 👋 👨‍💻 </h2>
+<h3 align="center">ALX Certified Backend Engineer with a Love For Mobile App Development Using Flutter</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> </p>
+<p align="center"> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=for-the-badge" alt="Ambrose_kol" /></a> </p>
 
 - 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/alx-system_engineering-devops)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
@@ -6,13 +9,15 @@
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
 - ⚡ Fun fact: I am also a Biotechnology student
 - 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ambrosekol&theme=onedark&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosekol&langs_count=10&layout=compact)](https://github.com/Ambrosekol)
 <br/>
  <b>Note:</b> The languages shown here are just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
 </br>
-## Languages, Platforms and Tools I use:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bash,dart,python,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress)](https://skillicons.dev)
+<h3 align="center">Languages, Platforms and Tools I use:</h3>
+<p align="center"> <a href="https://skillicons.dev" target="blank"> <img src="https://skillicons.dev/icons?i=html,css,bash,dart,python,c,discord,firebase,flutter,github,git,instagram,linkedin,linux,stackoverflow,twitter,unreal,vscode,wordpress" alt="skill_icons" /> </a>
+</p>
 <br/>
  <b>Note:</b> This is not an exhaustive list.
 </br>
