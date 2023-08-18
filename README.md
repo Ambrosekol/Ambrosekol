@@ -73,3 +73,6 @@ Linux                             ███████████████�
 
 Thank you for visiting my GitHub profile!
 ![](https://hit.yhype.me/github/profile?user_id=27368902)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Kolus7381k" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Bug Spray" style="height: 60px !important;width: 217px !important;" ></a></p>
