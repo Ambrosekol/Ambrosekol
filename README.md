@@ -2,7 +2,7 @@
 <h3 align="center">An Upcoming and talented ALX Backend Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=plastic" alt="Ambrose_kol" /></a></p>
 
-- 🔭 I’m currently working on [airbnb console](https://github.com/Ambrosekol/AirBnB_clone)
+- 🔭 I’m currently working on [Devops](https://github.com/Ambrosekol/AirBnB_clone)
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
@@ -27,7 +27,7 @@
 
 
 | ![Code Time](https://img.shields.io/badge/Code%20Time-201%20hrs%20-red) | ![Lines of code](https://img.shields.io/badge/Lines%20of%20of%20code-i've%20lost%20count-red) |
-|---|----|
+|----|----|
 
 
 **I'm an Evening Coder 🦉** 
@@ -38,7 +38,7 @@
 🌃 Evening              █████████████████████░░░░   Active
 🌙 Night                ██████████████████░░░░░░░   Very active
 ```
-📅 **Days I try new things** 
+**Days I try new things 📅** 
 
 ```text
 Monday                   █████░░░░░░░░░░░░░░░░░░░   
