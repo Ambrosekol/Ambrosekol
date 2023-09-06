@@ -71,7 +71,7 @@ Linux                             ███████████████�
 
 
 
-Thank you for visiting my GitHub profile!
+Thank you for taking your time to check out my GitHub profile!
 ![](https://hit.yhype.me/github/profile?user_id=27368902)
 
 <h3 align="left">Support:</h3>
