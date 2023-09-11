@@ -26,7 +26,7 @@
 
 
 
-| ![Code Time](https://img.shields.io/badge/Code%20Time-201%20hrs%20-red) | ![Lines of code](https://img.shields.io/badge/Lines%20of%20of%20code-i've%20lost%20count-red) |
+| ![Code Time](https://img.shields.io/badge/Code%20Time-201%20hrs%20-red) | ![Lines of code written](https://img.shields.io/badge/Lines%20of%20of%20code-i've%20lost%20count-red) |
 |----|----|
 
 
