@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
-- ⚡ Fun fact: I am also a Biotechnology student
+- ⚡ Fun fact: I read code more than I write
 - 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ambrosekol&theme=onedark&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
