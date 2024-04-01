@@ -2,11 +2,11 @@
 <h3 align="center">An Upcoming and talented Backend Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ambrosekol&style=plastic" alt="Ambrose" /> <a href="https://twitter.com/ambrose_kol" target="blank"><img src="https://img.shields.io/twitter/follow/Ambrose_kol?logo=twitter&style=plastic" alt="Ambrose_kol" /></a></p>
 
-- 🔭 I’m currently working on [Usher Hiring Service](https://github.com/Ambrosekol/alx-backend-user-data/tree/main/0x03-user_authentication_service)
-- 🌱 I’m currently learning software engineering at [ALX](https://www.alxafrica.com)
+- 🔭 I’m currently working on [Usher Hiring Service](https://github.com/Ambrosekol/Event_Mate)
+- 🌱 I’m currently a software engineering fellow at [ALX](https://www.alxafrica.com)
 - 👯 I’m Available and ready to collaborate on any project
 - 💬 Ask me about anything [here](https://github.com/Ambrosekol/Ambrosekol/discussions)
-- ⚡ Fun fact: I read code more than I write.
+- ⚡ Fun fact: I read codes more than I write.
 - 📫 How to reach me:<p> <img src="https://img.shields.io/github/followers/ambrosekol?label=Ambrosekol&logo=Github&style=social" alt="Github"> <img src="https://img.shields.io/twitter/follow/ambrose_kol?style=social" alt="Twitter"> <img src="https://img.shields.io/badge/-kolus7381@gmail.com-red?style=social&logo=gmail&logoColor=red" alt="gmail"></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ambrosekol&theme=onedark&row=2&column=3&title=MultiLanguage,Commits,Repositories,Followers,PullRequest,Stars)](https://github.com/ryo-ma/github-profile-trophy)
