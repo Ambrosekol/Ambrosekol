@@ -15,7 +15,7 @@
  <b>Note:</b> The languages shown here are just a measure of projects posted on Github and not my actual skill measurement, Thanks for understanding.
 </br>
 <h3 align="center">Languages, Platforms and Tools I use:</h3>
-<p align="center"> <a href="https://skillicons.dev" target="blank"> <img src="https://skillicons.dev/icons?i=html,css,bash,dart,python,c,discord,firebase,flutter,devto,js,mysql,github,git,vim,cmake,linux,stackoverflow,twitter,vscode,wordpress&theme=dark&perline=10" alt="skill_icons" /> </a>
+<p align="center"> <a href="https://skillicons.dev" target="blank"> <img src="https://skillicons.dev/icons?i=html,css,bash,dart,python,c,discord,firebase,flutter,devto,js,mysql,github,git,vim,cmake,linux,stackoverflow,twitter,vscode,flask,wordpress&theme=dark&perline=10" alt="skill_icons" /> </a>
 </p>
 <br/>
  <b>Note:</b> This is not an exhaustive list.
